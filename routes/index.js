@@ -10,4 +10,4 @@ router.post('/',(req, res)=>{
 module.exports=router;
 
 //sttring de conexao
-//mongodb+srv://usuario_adm:<password>@clusterapi.rqgip.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+//mongodb+srv://ccdccdcusuario_adm:<password>@clusterapi.rqgip.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
